@@ -1,0 +1,8 @@
+;;Matematika;1
+kurva anyad;;Matematika;1
+kurva anyad;;Matematika;4
+kurva anyad;2023.03.14.;Matematika;4
+;;Matematika;5
+asdasdasd;;Matematika;5
+asdasdasd;;Matematika;5
+asdasdasd;;Matematika;5
